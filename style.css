@@ -1,0 +1,33 @@
+body{
+    background-color: greenyellow;
+}
+
+h1{
+    font-family: 'Special Elite',fantasy;
+    color: blue;
+    background-color: cornsilk;
+}
+
+#sketch_name{
+    color: red;
+}
+
+#show_sketch{
+    float: right;
+}
+
+p, span {
+     padding-top:10px; font-family: 'Special Elite', fantasy; font-size:25px; 
+    }
+    
+
+#score{
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+#timer{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
